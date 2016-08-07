@@ -1,6 +1,6 @@
 # PowerMate Linux Driver
 
-This is a small Linux userspace driver for the [Griffin PowerMate](https://store.griffintechnology.com/desktop/powermate). Tested only on Ubuntu 14.10, 15.04, and 15.10.
+This is a small Linux userspace driver for the [Griffin PowerMate](https://store.griffintechnology.com/desktop/powermate). Tested on Archlinux by me August 6th 2016. Previously tested only on Ubuntu 14.10, 15.04, and 15.10. I am forking this just to add this comment that after adding the udev rules and running powermate this works flawless in Archlinux/Antergos.
 
 For an easy to use PPA, use: https://launchpad.net/~stefansundin/+archive/ubuntu/powermate
 
